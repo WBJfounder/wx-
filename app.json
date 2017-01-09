@@ -1,0 +1,29 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/xqq/xqq"
+    ],
+    "window": {
+        "navigationBarTitleText": "首页",
+     
+        "navigationBarBackgroundColor":"rgba(231,200,154,0.7)",
+        
+        "navigationBarTextStyle":"#000"
+    },
+    "tabBar": {
+        "list": [{
+                "pagePath": "pages/index/index",
+                "text": "首页"
+            }, {
+                "pagePath": "pages/xqq/xqq",
+                "text": "详情"
+            }
+
+        ]
+    },
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "debug": true
+}

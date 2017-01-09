@@ -1,0 +1,1 @@
+里面view就当div用 .js文件  .json文件必有
